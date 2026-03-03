@@ -1,6 +1,6 @@
 # qa-equivalence-testing
 
-# 🧪 Equivalence Class Testing
+## 🧪 Equivalence Class Testing
 
 ## 📌 Descripción
 Proyecto de testing manual enfocado en la aplicación de la técnica **Clases de Equivalencia** para validar campos de entrada en una aplicación web.
